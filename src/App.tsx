@@ -201,7 +201,7 @@ const Hero = () => {
                 </div>
                 <div>
                   <p className="text-slate-500 text-xs font-bold uppercase tracking-wider">Annual Turnover</p>
-                  <p className="text-slate-900 text-xl font-bold">₹1 Crore+</p>
+                  <p className="text-slate-900 text-xl font-bold">₹40 Lakh</p>
                 </div>
               </div>
             </div>

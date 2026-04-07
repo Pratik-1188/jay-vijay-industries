@@ -12,7 +12,7 @@ export const PRODUCTS = [
     title: "Liner Bags",
     description: "High-quality transparent LDPE liner bags for industrial and commercial packaging.",
     items: ["Transparent LDPE Bags", "LDPE Liner Plastic Bag"],
-    image: "https://picsum.photos/seed/liner/800/600"
+    image: milkImg
   },
   {
     id: "milk-bags",
@@ -26,7 +26,7 @@ export const PRODUCTS = [
     title: "Grocery Packing Bags",
     description: "Reliable grocery and kirana folding bags for retail and wholesale use.",
     items: ["Transparent Packaging Bags", "Kirana Folding Bag", "LDPE Grocery Kirana Bag"],
-    image: "https://picsum.photos/seed/grocery/800/600"
+    image: milkImg
   }
 ];
 
@@ -35,9 +35,10 @@ export const ABOUT_US = "Jay-Vijay Industries is a prominent manufacturer based 
 export const FACTSHEET = {
   "Nature of Business": "Manufacturer",
   "Additional Business": "Wholesaler",
-  "Company CEO": "Jay Vijay",
+  "Company CEO": "Rohit Vijay Vajarinkar",
   "Total Number of Employees": "11 to 25 People",
   "Year of Establishment": "1989",
   "Legal Status of Firm": "Individual - Proprietor",
-  "Annual Turnover": "Rs. 50 Lakh - 1 Crore"
+  "Annual Turnover": "Rs. 40 Lakh",
+  "GST Number": "27ATVPV7697L2Z1"
 };
