@@ -1,3 +1,5 @@
+import milkImg from './assets/milk-package-bag.png';
+
 export const COMPANY_NAME = "Jay Vijay Industries";
 export const COMPANY_LOCATION = "Baramati, Maharashtra, India";
 export const COMPANY_ADDRESS = "Baramati MIDC, Baramati, Maharashtra 413133";
@@ -17,7 +19,7 @@ export const PRODUCTS = [
     title: "Milk Packaging Bags",
     description: "Durable and food-grade LDPE pouches for milk packaging in various sizes.",
     items: ["LDPE Milk Packaging Pouch 1Liter", "LDPE Milk Packaging Pouch Yug", "Milk Packaging Pouch 250ml"],
-    image: "https://picsum.photos/seed/milk/800/600"
+    image: milkImg
   },
   {
     id: "grocery-bags",

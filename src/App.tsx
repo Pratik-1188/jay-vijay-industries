@@ -249,7 +249,7 @@ const About = () => {
               </div>
             </div>
             <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 bg-blue-600 text-white p-8 rounded-2xl shadow-2xl text-center">
-              <p className="text-4xl font-bold">10+</p>
+              <p className="text-4xl font-bold">37+</p>
               <p className="text-sm font-medium opacity-80">Years of Excellence</p>
             </div>
           </div>
